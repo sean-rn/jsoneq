@@ -4,6 +4,8 @@ JSONEq - Assert JSON strings are equivalent
 [![Go Report Card](https://goreportcard.com/badge/github.com/sean-rn/jsoneq)](https://goreportcard.com/report/github.com/sean-rn/jsoneq)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/sean-rn/jsoneq)](https://pkg.go.dev/github.com/sean-rn/jsoneq)
 
+The JSONEq function asserts that two JSON strings are equivalent, ignoring the order of array elements.
+
 Installation
 ============
 
